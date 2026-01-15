@@ -5,5 +5,7 @@ Character Recognition using ANN and CNN is an AI-based project that identifies h
 To download the large files for this project, click the link below:
 ## Model Files
 
-- Trained Model: `character_model.h5`{https://huggingface.co/asthakakadiya2115/character-recognition/resolve/main/character_cnn_model.h5}
-- Dataset: `dataset.zip`[Download Dataset from Hugging Face](https://huggingface.co/asthakakadiya2115/character-recognition/resolve/main/dataset.zip)
+- Trained Model: `character_model.h5`[Download Trained Model](https://huggingface.co/asthakakadiya2115/character-recognition/resolve/main/character_cnn_model.h5)
+
+- Dataset: `dataset.zip`[Download Dataset](https://huggingface.co/asthakakadiya2115/character-recognition/resolve/main/dataset.zip)
+
